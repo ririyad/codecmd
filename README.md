@@ -11,4 +11,5 @@
 |No.|Action|Command|
 |---|------|-------|
 |1|Format Code Indent|ctrl + k + f|
+|2|Package Manager Console|ctrl + p + m|
 
